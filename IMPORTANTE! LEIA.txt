@@ -1,0 +1,27 @@
+DOCUMENTAÇÃO DO PROGRAMA:
+
+OBS.: Antes de mais nada copie e cole a pasta "Banco" que vem junto com o aplicativo na unidade C: do seu computador para seu programa funcionar corretamente e cadastrar e exibir os produtos.
+
+
+UTILIZAÇÃO DO PROGRAMA
+
+1)INSERIR PRODUTOS:
+>Clique no botão ESTOQUE assim que iniciar a aplicação;
+
+>Será pedido a senha do sistema digite "estoquedeprodutos" sem as aspas e em minúsculo;
+
+>vai aparecer os campos preenchidos com os valores padrão, você pode apagar e escreer os nomes dos produtos que deseja inserir no banco de dados da aplicação clicando em + .
+
+
+
+2)CONSULTAR PRODUTOS:
+
+>Clique em PESQUISAR POR PRODUTOS assim que a aplicação for iniciada;
+
+>Quando abrir selecione o Tipo de produto que deseja(Escova, Creme, Fio Dental, etc) e clique no botão EXIBIR PRODUTO que aparecerá assim que você selecioná-lo;
+
+>Em NOME DO PRODUTO será exibido os produtos cadastrados por você, clique em no botão EXIBIR VALOR que aparecerá assim que selecionar o nome do produto para ver seu valor, Quantidade disponível;
+
+>Informe a quantidade desejada9que não póde ser maior que a quantidade disponível e clique no Botão CALCULAR para exibir o valor que será pago.
+
+>Clique em COMPRAR para finalizar a compra do produto.
